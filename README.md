@@ -1,2 +1,3 @@
-# jtperry_personal
-Personal website and article archive for James T. Perry
+# James T. Perry Personal Website
+
+Built using React and Tailwind CSS.
